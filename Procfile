@@ -1,1 +1,1 @@
-worker: Python index.js
+worker: Python Zardashtian_Bot.py
