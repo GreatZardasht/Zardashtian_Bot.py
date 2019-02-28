@@ -5,7 +5,7 @@ from discord.ext import commands
 from discord.ext.commands import Bot
 import asyncio
 
-token='(type Youre Token)'
+token='(NDY0ODI2NzM3MTg5MDYwNjA4.Dn_zfQ.6HAY-8wIgDNI4xIL1J0oki4nr2M)'
 
 bot = commands.Bot(command_prefix='z!')
 
@@ -49,4 +49,4 @@ async def latest_updates(ctx):
 
 #if that dosn't work replace it with your actuall token instead of leving it in as token'
 
-bot.run("token")
+bot.run("NDY0ODI2NzM3MTg5MDYwNjA4.Dn_zfQ.6HAY-8wIgDNI4xIL1J0oki4nr2M'")
